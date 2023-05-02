@@ -4,4 +4,4 @@
 
 > 常用语言占比统计
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas)](https://github.com/bin9li/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bin9li&layout=compact)](https://github.com/bin9li/github-readme-stats)
